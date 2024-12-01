@@ -11,8 +11,10 @@ lerna-debug.log*
 .pnpm-debug.log*
 
 # Caches
-
+.wxt
+.output
 .cache
+
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
 
