@@ -1,4 +1,11 @@
-# 🪀 devto-ai-accuracy
+ 
+<h1 align="center">🪀 devto-ai-accuracy 🪀</h1>
+<h2 align="center">browser extention</h2>
+
+<p align="center">
+    <img alt="hero" width="450" src="https://emoji-route.deno.dev/svg/🪀" />
+</p>
+
 
 > [!TIP]
 >
