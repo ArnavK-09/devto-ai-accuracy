@@ -1,15 +1,5 @@
 # devto-ai-accuracy
 
-To install dependencies:
-
-```bash
-bun install
-```
-
-To run:
-
-```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v1.1.29. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+<p align="center">
+  <img align="center" src="https://github.com/user-attachments/assets/087b3d18-8cae-4d56-b774-c3efdc80b4e7" alt="demo" />
+</p>
